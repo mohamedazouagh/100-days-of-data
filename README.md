@@ -17,3 +17,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 |---|---|
 | [01](day01/) | Python types for data work |
 | [02](day02/) | Cleaning text with string methods |
+| [03](day03/) | Counting and grouping with dictionaries |
