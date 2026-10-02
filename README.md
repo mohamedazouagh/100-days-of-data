@@ -19,3 +19,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [02](day02/) | Cleaning text with string methods |
 | [03](day03/) | Counting and grouping with dictionaries |
 | [04](day04/) | Reading and writing CSV with the csv module |
+| [05](day05/) | Dates and times with datetime |
