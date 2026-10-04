@@ -21,3 +21,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [04](day04/) | Reading and writing CSV with the csv module |
 | [05](day05/) | Dates and times with datetime |
 | [06](day06/) | Reading and writing JSON with the json module |
+| [07](day07/) | Summary statistics with the statistics module |
