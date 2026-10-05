@@ -16,7 +16,7 @@ Run it: `python day08/lesson.py`
 
 ## Exercise
 `LOG` in `solution.py` holds a fictional web server's access log (time, path, status, milliseconds),
-with comment lines and one malformed line. Using generators and `itertools` (no lists of the whole log):
+with comment lines and one malformed line. Using generators and `itertools` (only the grouping step needs a sort; everything else streams):
 1. write a generator that parses the log, skipping comments and counting malformed lines it drops;
 2. per status class (2xx, 4xx, 5xx), report the number of requests and the average response time;
 3. find the longest run of consecutive requests that were slower than 200 ms, with its start time;
