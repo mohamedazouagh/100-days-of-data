@@ -24,3 +24,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [07](day07/) | Summary statistics with the statistics module |
 | [08](day08/) | Lazy pipelines with generators and itertools |
 | [09](day09/) | Extracting data from text with regular expressions |
+| [10](day10/) | Sorting, ranking and top-N |
