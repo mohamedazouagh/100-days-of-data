@@ -26,3 +26,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [09](day09/) | Extracting data from text with regular expressions |
 | [10](day10/) | Sorting, ranking and top-N |
 | [11](day11/) | Handling bad data with exceptions and validation |
+| [12](day12/) | Typed records with dataclasses |
