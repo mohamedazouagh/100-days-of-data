@@ -28,3 +28,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [11](day11/) | Handling bad data with exceptions and validation |
 | [12](day12/) | Typed records with dataclasses |
 | [13](day13/) | Files and folders with pathlib |
+| [14](day14/) | Comparing datasets with sets |
