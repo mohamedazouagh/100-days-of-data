@@ -29,3 +29,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [12](day12/) | Typed records with dataclasses |
 | [13](day13/) | Files and folders with pathlib |
 | [14](day14/) | Comparing datasets with sets |
+| [15](day15/) | Exact money maths with decimal |

@@ -21,7 +21,7 @@ Run it: `python day15/lesson.py`
 ## Exercise
 `solution.py` holds a fictional shop invoice: lines with a unit price (string), a quantity and a VAT rate (21 % or 9 %).
 1. compute each line's net amount and VAT, rounded to cents with `ROUND_HALF_UP`;
-2. print the invoice net, VAT per rate and grand total, and show that the float version of the same sums drifts;
+2. print the invoice net, VAT per rate and grand total, and show how a naive float script (no per-line rounding) ends up a cent off;
 3. compare "round per line" with "round the total" for the VAT and report the difference in cents;
 4. split the grand total over 3 people so the shares differ by at most one cent and add up exactly.
 Solution: `day15/solution.py`.
