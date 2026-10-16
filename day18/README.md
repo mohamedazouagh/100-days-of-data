@@ -29,7 +29,7 @@ Run it: `python day18/lesson.py`
 2. total the amount per postcode area (first 4 digits) with `reduce`, and list the top 3 areas
    using `itemgetter` as the sort key;
 3. wrap a deliberately slow `area_to_region` lookup in `lru_cache` and show from
-   `cache_info()` that 2,000 calls caused only one miss per distinct area;
+   `cache_info()` that one call per valid record caused only one miss per distinct area;
 4. check that cached and uncached results are identical and that invalid postcodes are
    counted, not silently dropped.
 Solution: `day18/solution.py`.

@@ -32,3 +32,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [15](day15/) | Exact money maths with decimal |
 | [16](day16/) | Text encodings and Unicode normalisation |
 | [17](day17/) | Sampling and reproducibility with random |
+| [18](day18/) | Function tools: partial, reduce, operator and lru_cache |
