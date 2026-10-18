@@ -30,6 +30,7 @@ and a list of category targets.
 3. list products that never sold (anti join) and sales for unknown products;
 4. compute revenue per category (one-to-many) and compare it with the targets, flagging
    categories below target;
-5. check that the left join kept every sales line and that the per-category revenue plus the
-   unknown-product revenue equals the total revenue of all lines.
+5. check that the left join kept every sales line and every unit sold, and that the
+   per-category revenue adds up to the revenue of all lines with a known product (unknown
+   products have no price, so they are reported by quantity instead).
 Solution: `day20/solution.py`.

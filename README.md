@@ -34,3 +34,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [17](day17/) | Sampling and reproducibility with random |
 | [18](day18/) | Function tools: partial, reduce, operator and lru_cache |
 | [19](day19/) | Reshaping records: rows, columns and nested data |
+| [20](day20/) | Joining datasets by key with dicts |
