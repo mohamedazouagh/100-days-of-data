@@ -35,3 +35,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [18](day18/) | Function tools: partial, reduce, operator and lru_cache |
 | [19](day19/) | Reshaping records: rows, columns and nested data |
 | [20](day20/) | Joining datasets by key with dicts |
+| [21](day21/) | pandas basics: Series and DataFrame |
