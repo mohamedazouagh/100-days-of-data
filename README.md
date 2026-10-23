@@ -38,3 +38,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [21](day21/) | pandas basics: Series and DataFrame |
 | [22](day22/) | Selecting, filtering and sorting rows in pandas |
 | [23](day23/) | Grouping and aggregating with groupby |
+| [24](day24/) | Missing values and duplicates in pandas |
