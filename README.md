@@ -41,3 +41,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [24](day24/) | Missing values and duplicates in pandas |
 | [25](day25/) | Combining tables with merge and concat |
 | [26](day26/) | Reshaping tables: melt, pivot, pivot_table and stack |
+| [27](day27/) | Dates and time series: to_datetime, .dt, resample and shift |
