@@ -42,3 +42,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [25](day25/) | Combining tables with merge and concat |
 | [26](day26/) | Reshaping tables: melt, pivot, pivot_table and stack |
 | [27](day27/) | Dates and time series: to_datetime, .dt, resample and shift |
+| [28](day28/) | Text columns: the .str accessor, regex replace and extract |
