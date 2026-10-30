@@ -44,3 +44,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [27](day27/) | Dates and time series: to_datetime, .dt, resample and shift |
 | [28](day28/) | Text columns: the .str accessor, regex replace and extract |
 | [29](day29/) | Categories and binning: category dtype, cut and qcut |
+| [30](day30/) | Window calculations: rolling, expanding, diff, pct_change and rank |
