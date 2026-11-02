@@ -46,3 +46,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [29](day29/) | Categories and binning: category dtype, cut and qcut |
 | [30](day30/) | Window calculations: rolling, expanding, diff, pct_change and rank |
 | [31](day31/) | Conditional columns: np.where, np.select, map, where/mask, clip and apply |
+| [32](day32/) | Method chaining: assign, query, pipe and eval |
