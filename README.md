@@ -48,3 +48,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [31](day31/) | Conditional columns: np.where, np.select, map, where/mask, clip and apply |
 | [32](day32/) | Method chaining: assign, query, pipe and eval |
 | [33](day33/) | The index and MultiIndex: set_index, loc, xs, IndexSlice and alignment |
+| [34](day34/) | Reading messy CSVs with read_csv: separators, decimals, missing markers and chunks |
