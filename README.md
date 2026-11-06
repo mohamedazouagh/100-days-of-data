@@ -49,3 +49,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [32](day32/) | Method chaining: assign, query, pipe and eval |
 | [33](day33/) | The index and MultiIndex: set_index, loc, xs, IndexSlice and alignment |
 | [34](day34/) | Reading messy CSVs with read_csv: separators, decimals, missing markers and chunks |
+| [35](day35/) | Group-wise operations beyond agg: transform, cumcount, filter, nth and idxmax |
