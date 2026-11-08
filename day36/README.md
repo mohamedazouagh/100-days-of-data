@@ -27,3 +27,16 @@ Key points:
 Requires pandas: `python -m pip install -r requirements.txt`
 
 Run it: `python day36/lesson.py`
+
+## Exercise
+`solution.py` builds a fictional order export (fixed seed) where every field is text: order id,
+country, quantity, price and a `Y`/`N` paid flag, with some empty or broken cells and some
+prices written with a decimal comma.
+1. convert quantity to `Int64` and price to float with `to_numeric(errors="coerce")`, fixing
+   decimal commas first, and list exactly which cells could not be parsed;
+2. turn the paid flag into the nullable `boolean` dtype and country into `category`;
+3. compute paid revenue (quantity × price) per country using only rows where all three are known,
+   and count the orders with an unknown paid status;
+4. compare `memory_usage(deep=True)` of the text and the typed frame on a 200,000-row copy;
+5. check the lost cells, revenue and counts against a plain Python version using `Decimal`.
+Solution: `day36/solution.py`.
