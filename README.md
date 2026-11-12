@@ -51,3 +51,4 @@ Each day has a short explanation, runnable code and an exercise with a checked s
 | [34](day34/) | Reading messy CSVs with read_csv: separators, decimals, missing markers and chunks |
 | [35](day35/) | Group-wise operations beyond agg: transform, cumcount, filter, nth and idxmax |
 | [36](day36/) | Dtypes and memory: to_numeric, nullable Int64/boolean, category and memory_usage |
+| [37](day37/) | Nearest-key joins with merge_asof: direction, tolerance and by |
